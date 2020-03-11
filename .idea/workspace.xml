@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2b24962-b52f-47fb-9b04-23395bcffec8" name="Default Changelist" comment="" />
+    <list default="true" id="e2b24962-b52f-47fb-9b04-23395bcffec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/find2Darray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duplicateFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duplicateFigures.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YxlRNPCAX0pK5ieRjEe03EHKYR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,9 +40,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.duplicateFigures">
     <configuration name="duplicateFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="duplicateFigures" />
+      <module name="swordOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find2Darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find2Darray" />
       <module name="swordOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -41,6 +58,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.duplicateFigures" />
+        <item itemvalue="Application.find2Darray" />
       </list>
     </recent_temporary>
   </component>
@@ -54,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892116397</updated>
-      <workItem from="1583892119641" duration="2594000" />
+      <workItem from="1583892119641" duration="4785000" />
     </task>
     <servers />
   </component>
@@ -62,26 +80,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="107" key="FileChooserDialogImpl" timestamp="1583892624115">
+    <state x="723" y="107" key="FileChooserDialogImpl" timestamp="1583896954872">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state x="723" y="107" key="FileChooserDialogImpl/0.0.1464.864@0.0.1464.864" timestamp="1583892624115" />
-    <state width="1421" height="224" key="GridCell.Tab.0.bottom" timestamp="1583894722933">
+    <state x="723" y="107" key="FileChooserDialogImpl/0.0.1464.864@0.0.1464.864" timestamp="1583896954872" />
+    <state width="1421" height="172" key="GridCell.Tab.0.bottom" timestamp="1583897117876">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="224" key="GridCell.Tab.0.bottom/0.0.1464.864@0.0.1464.864" timestamp="1583894722933" />
-    <state width="1421" height="224" key="GridCell.Tab.0.center" timestamp="1583894722932">
+    <state width="1421" height="172" key="GridCell.Tab.0.bottom/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
+    <state width="1421" height="172" key="GridCell.Tab.0.center" timestamp="1583897117876">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="224" key="GridCell.Tab.0.center/0.0.1464.864@0.0.1464.864" timestamp="1583894722932" />
-    <state width="1421" height="224" key="GridCell.Tab.0.left" timestamp="1583894722932">
+    <state width="1421" height="172" key="GridCell.Tab.0.center/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
+    <state width="1421" height="172" key="GridCell.Tab.0.left" timestamp="1583897117876">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="224" key="GridCell.Tab.0.left/0.0.1464.864@0.0.1464.864" timestamp="1583894722932" />
-    <state width="1421" height="224" key="GridCell.Tab.0.right" timestamp="1583894722932">
+    <state width="1421" height="172" key="GridCell.Tab.0.left/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
+    <state width="1421" height="172" key="GridCell.Tab.0.right" timestamp="1583897117876">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="224" key="GridCell.Tab.0.right/0.0.1464.864@0.0.1464.864" timestamp="1583894722932" />
+    <state width="1421" height="172" key="GridCell.Tab.0.right/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
     <state x="234" y="14" key="SettingsEditor" timestamp="1583893245602">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
