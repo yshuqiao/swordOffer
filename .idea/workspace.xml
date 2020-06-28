@@ -2,14 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2b24962-b52f-47fb-9b04-23395bcffec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/find2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddWithoutArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BSTtoDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CloneComplexList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindContinuousSequenceWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindNumsAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindNumsWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstAppearOnceOfChatStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstCommonNodeOfLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstNotRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetCountsOfKInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetDigitAtIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetLeastNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetMedianOfDataFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetMostValueOfGift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetUglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InversePairsOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthNodeOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastRemainingInCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeftRotateStringFromK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubStringWithoutDuplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxInWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinNumberInRotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreThanHalfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NdicesSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumDecodings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOf1From1ToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlayingCardStraight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleCover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrToIntByHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringArrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumWithoutForIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SymmetricalTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/climbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/climbStairs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cutRope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deleteDuplicateNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deleteLinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entryNodeOfLinkedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fromTailKth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isPostOrderOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matchRegular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numberOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oddToEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pathTheSumOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/popOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printTreeForRows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printTreeFromTopToBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printTreeLikeZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reconstructBinarytree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rectHasPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replaceSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/robotMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackIncludeMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stackToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/substructureOftree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treeGetNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treeMirror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/duplicateFigures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duplicateFigures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/swordOffer/find2Darray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swordOffer/find2Darray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/find2Darray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/find2Darray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,24 +129,47 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myleetcode" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.duplicateFigures">
-    <configuration name="duplicateFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="duplicateFigures" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AddWithoutArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddWithoutArithmetic" />
       <module name="swordOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="find2Darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="find2Darray" />
+    <configuration name="LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LowestCommonAncestor" />
+      <module name="swordOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="swordOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplyArray" />
+      <module name="swordOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrToIntByHand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrToIntByHand" />
       <module name="swordOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,8 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.duplicateFigures" />
-        <item itemvalue="Application.find2Darray" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LowestCommonAncestor" />
+        <item itemvalue="Application.StrToIntByHand" />
+        <item itemvalue="Application.MultiplyArray" />
+        <item itemvalue="Application.AddWithoutArithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +195,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892116397</updated>
-      <workItem from="1583892119641" duration="4785000" />
+      <workItem from="1583892119641" duration="9905000" />
+      <workItem from="1584274818255" duration="1164000" />
+      <workItem from="1584276020704" duration="21358000" />
+      <workItem from="1585656881826" duration="208000" />
     </task>
     <servers />
   </component>
@@ -80,29 +206,79 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="107" key="FileChooserDialogImpl" timestamp="1583896954872">
+    <state x="662" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585308666298">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state x="723" y="107" key="FileChooserDialogImpl/0.0.1464.864@0.0.1464.864" timestamp="1583896954872" />
-    <state width="1421" height="172" key="GridCell.Tab.0.bottom" timestamp="1583897117876">
+    <state x="662" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1464.864@0.0.1464.864" timestamp="1585308666298" />
+    <state x="791" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587947699288">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="172" key="GridCell.Tab.0.bottom/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
-    <state width="1421" height="172" key="GridCell.Tab.0.center" timestamp="1583897117876">
+    <state x="791" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1464.864@0.0.1464.864" timestamp="1587947699288" />
+    <state x="723" y="107" key="FileChooserDialogImpl" timestamp="1592586070309">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="172" key="GridCell.Tab.0.center/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
-    <state width="1421" height="172" key="GridCell.Tab.0.left" timestamp="1583897117876">
+    <state x="723" y="107" key="FileChooserDialogImpl/0.0.1464.864@0.0.1464.864" timestamp="1592586070309" />
+    <state width="1421" height="160" key="GridCell.Tab.0.bottom" timestamp="1591170936540">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="172" key="GridCell.Tab.0.left/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
-    <state width="1421" height="172" key="GridCell.Tab.0.right" timestamp="1583897117876">
+    <state width="1421" height="160" key="GridCell.Tab.0.bottom/0.0.1464.864@0.0.1464.864" timestamp="1591170936540" />
+    <state width="1421" height="160" key="GridCell.Tab.0.center" timestamp="1591170936540">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state width="1421" height="172" key="GridCell.Tab.0.right/0.0.1464.864@0.0.1464.864" timestamp="1583897117876" />
-    <state x="234" y="14" key="SettingsEditor" timestamp="1583893245602">
+    <state width="1421" height="160" key="GridCell.Tab.0.center/0.0.1464.864@0.0.1464.864" timestamp="1591170936540" />
+    <state width="1421" height="160" key="GridCell.Tab.0.left" timestamp="1591170936540">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state x="234" y="14" key="SettingsEditor/0.0.1464.864@0.0.1464.864" timestamp="1583893245602" />
+    <state width="1421" height="160" key="GridCell.Tab.0.left/0.0.1464.864@0.0.1464.864" timestamp="1591170936540" />
+    <state width="1421" height="160" key="GridCell.Tab.0.right" timestamp="1591170936540">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state width="1421" height="160" key="GridCell.Tab.0.right/0.0.1464.864@0.0.1464.864" timestamp="1591170936540" />
+    <state width="906" height="244" key="GridCell.Tab.1.bottom" timestamp="1586571465555">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.1.bottom/0.0.1464.864@0.0.1464.864" timestamp="1586571465555" />
+    <state width="906" height="244" key="GridCell.Tab.1.center" timestamp="1586571465555">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.1.center/0.0.1464.864@0.0.1464.864" timestamp="1586571465555" />
+    <state width="906" height="244" key="GridCell.Tab.1.left" timestamp="1586571465555">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.1.left/0.0.1464.864@0.0.1464.864" timestamp="1586571465555" />
+    <state width="906" height="244" key="GridCell.Tab.1.right" timestamp="1586571465555">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state width="906" height="244" key="GridCell.Tab.1.right/0.0.1464.864@0.0.1464.864" timestamp="1586571465555" />
+    <state x="357" y="14" key="SettingsEditor" timestamp="1591169765860">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state x="357" y="14" key="SettingsEditor/0.0.1464.864@0.0.1464.864" timestamp="1591169765860" />
+    <state x="413" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1591533831322">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state x="413" y="256" key="com.intellij.ide.util.TipDialog/0.0.1464.864@0.0.1464.864" timestamp="1591533831322" />
+    <state x="433" y="301" width="807" height="546" key="new project wizard" timestamp="1584618595762">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state x="433" y="301" width="807" height="546" key="new project wizard/0.0.1464.864@0.0.1464.864" timestamp="1584618595762" />
+    <state x="626" y="211" key="run.anything.popup" timestamp="1587647408421">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state x="626" y="211" key="run.anything.popup/0.0.1464.864@0.0.1464.864" timestamp="1587647408421" />
+    <state x="394" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1588126861196">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state x="394" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1464.864@0.0.1464.864" timestamp="1588126861196" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FirstAppearOnceOfChatStream.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

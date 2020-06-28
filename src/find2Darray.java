@@ -18,8 +18,7 @@ public class find2Darray {
             else if (target > matrix[r][c])
                 r++;
             else
-                c--;
-        }
+                c--;        }
         return false;
     }
 
